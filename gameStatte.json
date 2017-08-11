@@ -39,16 +39,20 @@
     }
   ],
   "progress": {
+    "182": {
+      "current": 0,
+      "total": 6
+    },
     "183": {
       "current": 0,
       "total": 6
     },
     "184": {
-      "current": 127,
-      "total": 4
+      "current": 8,
+      "total": 10
     },
     "185": {
-      "current": 0,
+      "current": 2,
       "total": 5
     }
   }
