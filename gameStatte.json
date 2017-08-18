@@ -1,1 +1,14 @@
-null
+{
+    "code": 422,
+    "translatable": false,
+    "message": "Invalid parameter value",
+    "requestId": "86f5348a-7ffb-461b-9bc4-04e9c63c1ad3",
+    "errors": [
+        {
+            "reason": "invalidParameter",
+            "message": "must be less than or equal to 50",
+            "location": "turn",
+            "locationType": "body"
+        }
+    ]
+}
